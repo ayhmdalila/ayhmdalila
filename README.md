@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">- 💬 Ask me about: AI, Python.</h3>
+<h3 align="left">💬 Ask me about: AI, Python.</h3>
 
 ###
 
