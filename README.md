@@ -2,6 +2,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
+
 ###
 
 <h1 align="left">Hey 👋 I'm Ayhm</h1>
@@ -94,7 +95,7 @@
 ###
 
 <p align="left">Kaggle: https://www.kaggle.com/ayhmakramdalila<br>Solafune: https://community.solafune.com/account/Ayhm</p>
-
+<img width="1693" height="929" alt="ChatGPT Image Jun 22, 2026, 11_21_22 AM" src="https://github.com/user-attachments/assets/f9252895-3ad4-418e-a96f-602de195df33" />
 ###
 
 <picture>
