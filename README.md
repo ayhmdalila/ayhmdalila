@@ -1,6 +1,6 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+
 </div>
+<img width="1983" height="793" alt="ChatGPT Image Jun 24, 2026, 01_45_52 PM" src="https://github.com/user-attachments/assets/89d4a502-3ee6-4081-bf69-82dc4e7dbdae" />
 
 
 ###
